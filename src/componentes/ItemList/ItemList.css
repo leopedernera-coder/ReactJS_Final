@@ -1,0 +1,4 @@
+.formatoProductos {
+    display: flex;
+    flex-wrap: wrap;
+}
