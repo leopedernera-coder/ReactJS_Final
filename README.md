@@ -25,6 +25,4 @@ Este corresponde a un proyecto de ecommerce básico que se utiliza en el curso d
 - Ejecutar run dev para inicial la aplicacion
 - Abrir el navegador con la dirección indicada en la consola
 
-## Licencia
-
-Esta aplicación está licenciada bajo MIT. Consulte el archivo LICENSE para mas información
+LEONARDO PEDERNERA
